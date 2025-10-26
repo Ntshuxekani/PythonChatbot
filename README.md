@@ -43,4 +43,4 @@ At the end, it displays the results and a personalized closing message.
 
 2. Download or clone this repository:
    ```bash
-   git clone https://github.com/Ntshuxekani/chatbot-quiz.git
+   git clone https://github.com/Ntshuxekani/PythonChatbot.git
